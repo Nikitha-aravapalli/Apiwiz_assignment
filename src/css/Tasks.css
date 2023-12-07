@@ -1,0 +1,11 @@
+.categories {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.grid-item {
+  margin: auto;
+  border: 1px solid black;
+}
+p {
+  margin-bottom: 10px;
+}

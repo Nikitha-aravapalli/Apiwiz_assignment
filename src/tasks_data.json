@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Task1",
+    "Start_date": "4-12-2023",
+    "end_date": "6-12-2023",
+    "people": ["ram", "sita"],
+    "status": "todo"
+  },
+  {
+    "title": "Task2",
+    "Start_date": "5-12-2023",
+    "end_date": "8-12-2023",
+    "people": ["lakshman"],
+    "status": "inprogress"
+  },
+  {
+    "title": "Task3",
+    "Start_date": "4-12-2023",
+    "end_date": "4-12-2023",
+    "people": ["ram", "bharat", "lakshman"],
+    "status": "completed"
+  },
+  {
+    "title": "Task4",
+    "Start_date": "6-12-2023",
+    "end_date": "9-12-2023",
+    "people": ["janak", "sita"],
+    "status": "todo"
+  },
+  {
+    "title": "Task5",
+    "Start_date": "4-12-2023",
+    "end_date": "5-12-2023",
+    "people": ["anji", "lakshman"],
+    "status": "inprogress"
+  },
+  {
+    "title": "Task6",
+    "Start_date": "7-12-2023",
+    "end_date": "6-12-2023",
+    "people": ["sita"],
+    "status": "todo"
+  },
+  {
+    "title": "Task7",
+    "Start_date": "5-12-2023",
+    "end_date": "7-12-2023",
+    "people": ["ram", "sita", "lakshmi"],
+    "status": "todo"
+  },
+  {
+    "title": "Task8",
+    "Start_date": "6-12-2023",
+    "end_date": "6-12-2023",
+    "people": ["shiv", "sita", "ganga"],
+    "status": "todo"
+  },
+  {
+    "title": "Task9",
+    "Start_date": "4-12-2023",
+    "end_date": "7-12-2023",
+    "people": ["anji", "lakshman"],
+    "status": "completed"
+  }
+]
